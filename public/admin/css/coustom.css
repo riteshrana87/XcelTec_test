@@ -1,0 +1,25 @@
+.error{
+    color: red;
+  }
+  label{
+    border: 0;
+    margin-bottom: 3px;
+    display: block;
+    width: 100%;
+  }
+ .common_box_body {
+    padding: 15px;
+    border: 12px solid #28BAA2;
+    border-color: #28BAA2;
+    border-radius: 15px;
+    margin-top: 10px;
+    background: #d4edda;
+}
+
+.brand-md{
+  width: 115px !important;
+}
+
+.astrick {
+  color: red;
+}
